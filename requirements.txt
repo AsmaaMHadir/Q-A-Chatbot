@@ -1,0 +1,9 @@
+langchain
+openai
+tiktoken
+pinecone
+sentence_transformers
+os
+dotenv
+pypdf
+streamlit
